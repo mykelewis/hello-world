@@ -1,3 +1,5 @@
+These contain ways to contribute to existing repositories
+
 # download a repository on GitHub.com to our machine
 git clone https://github.com/me/repo.git
 
