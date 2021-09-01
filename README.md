@@ -67,4 +67,4 @@ Format: ![Alt Text](url)
   Content from cell 1 | Content from cell 2
   Content in the first column | Content in the second column
   
-  EMOJIS!(https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+  [EMOJIS!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
